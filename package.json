@@ -1,0 +1,13 @@
+{
+  "name": "cliproxyapi-galaxy",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Node.js launcher for deploying CLIProxyAPI on Node-only hosts.",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node scripts/galaxy-start.js",
+    "galaxy:check": "node scripts/galaxy-start.js --check"
+  }
+}
