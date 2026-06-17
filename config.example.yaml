@@ -38,6 +38,7 @@ auth-dir: "~/.cli-proxy-api"
 # API keys for authentication
 api-keys:
   - "sk-sjiijhhah-1"
+  - "sk-tstststs"
 
 # Enable debug logging
 debug: false
